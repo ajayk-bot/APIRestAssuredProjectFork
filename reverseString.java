@@ -8,7 +8,7 @@ class reverseString {
 	public static void main(String[] args)
 	{
 		String input = "GeeksforGeeks";
-System.out.println("test");
+		System.out.println("test first time");
 		// getBytes() method to convert string
 		// into bytes[].
 		byte[] strAsByteArray = input.getBytes();
