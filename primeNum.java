@@ -6,6 +6,10 @@ public class primeNum {
         this.prime = prime;
         this.count = 0; 
         this.prime2 = prime;
+
+
+        System.out.println("test first time");
+		System.out.println("Added new branch f1");
     }
     
 }
